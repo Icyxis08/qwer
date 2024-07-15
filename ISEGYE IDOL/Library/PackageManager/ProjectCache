@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638566085980545458
-    m_Hash: 280236670
+      ticks: 638566156647708821
+    m_Hash: 2190083524
   m_LockFileStatus:
     m_FilePath: C:/Users/userPC/Documents/GitHub/qwer/ISEGYE IDOL/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638566086333028405
-    m_Hash: 150666284
+      ticks: 638566156647718796
+    m_Hash: 776563695
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
