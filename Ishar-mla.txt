@@ -1,1 +1,3 @@
-#include<stdio.h>
+#main <stdio.h>
+
+iclude(a,b,c)
