@@ -335,8 +335,11 @@
 -r:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.ref.dll"
+<<<<<<< HEAD
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
@@ -365,6 +368,7 @@
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CoverageResultWriterBase.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CoverageRunData.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CoverageSettings.cs"
+<<<<<<< HEAD
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CoverageStats/CoverageStats.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CoverageStats/ICoverageStatsProvider.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CoverageWindow/CodeCoverageWindow.cs"
@@ -392,6 +396,11 @@
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/ReportGenerator/ReportGeneratorStyles.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/Utils/CoverageUtils.cs"
 "Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/Utils/JsonUtils.cs"
+=======
+"Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/ICoverageReporter.cs"
+"Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/ICoverageReporterFilter.cs"
+"Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/Replacing/PathReplacing.cs"
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
 -langversion:9.0
 /deterministic
 /optimize+

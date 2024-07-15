@@ -5,7 +5,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638566097117584047
+=======
+      ticks: 638566094423372287
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     m_Hash: 2190083524
   m_LockFileStatus:
     m_FilePath: C:/Users/user/Documents/GitHub/qwer/ISEGYE IDOL/Packages/packages-lock.json
@@ -13,7 +17,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638566097117584047
+=======
+      ticks: 638566094423377457
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     m_Hash: 776563695
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -36,7 +44,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Editor
+<<<<<<< HEAD
   type: assets
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: The package gives you the ability to use Unity Version Control in
     the Unity editor. To use Unity Version Control, a subscription is required. Learn
     more about how you can get started for free by visiting https://unity.com/solutions/version-control
@@ -44,6 +56,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 1.2.3-preview
     - 1.2.4-preview
     - 1.2.6
@@ -115,6 +128,8 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.2.0
     - 2.3.1
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 2.4.3
     compatible:
     - 2.4.3
@@ -147,7 +162,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 638549067850000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.4/manual/index.html
   hasRepository: 1
   repository:
@@ -272,7 +291,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Text Rendering
+<<<<<<< HEAD
   type: asset
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: 'TextMeshPro is the ultimate text solution for Unity. It''s the perfect
     replacement for Unity''s UI Text and the legacy Text Mesh.
 
@@ -297,6 +320,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 0.1.2
     - 1.0.21
     - 1.0.23
@@ -410,6 +434,12 @@ m_ResolvedPackages:
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.9
+=======
+    - 3.0.6
+    compatible:
+    - 3.0.6
+    recommended: 3.0.6
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -437,7 +467,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 637547111200000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -468,13 +502,18 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: assets
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   status: 0
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 1.2.0
     - 1.2.1
     - 1.2.2
@@ -571,6 +610,11 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     - 1.8.7
+=======
+    - 1.7.6
+    compatible:
+    - 1.7.6
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     recommended: 1.7.6
     deprecated: []
   dependencies:
@@ -607,7 +651,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 638326112840000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
   hasRepository: 1
   repository:
@@ -648,9 +696,12 @@ m_ResolvedPackages:
   versions:
     all:
     - 1.0.0
+<<<<<<< HEAD
     - 3.0.0-exp.1
     - 3.0.0-exp.3
     - 3.0.0-exp.4
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     compatible:
     - 1.0.0
     recommended: 1.0.0
@@ -728,6 +779,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 1.5.0
     - 1.5.1-pre.3
     - 1.5.1-pre.5
@@ -748,12 +800,18 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.9.1
     - 1.9.2
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 1.9.4
     compatible:
     - 1.9.4
     recommended: 1.9.4
+<<<<<<< HEAD
     deprecated:
     - 1.8.0-pre.1
+=======
+    deprecated: []
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -779,7 +837,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 638488567680000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -2743,7 +2805,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: assets
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -2751,6 +2817,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 1.0.2
     - 1.0.3
     - 1.0.4
@@ -2774,6 +2841,8 @@ m_ResolvedPackages:
     - 2.0.18
     - 2.0.20
     - 2.0.21
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 2.0.22
     compatible:
     - 2.0.22
@@ -2802,7 +2871,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 638326061910000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
@@ -2833,7 +2906,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: assets
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: The JetBrains Rider Editor package provides an integration for using
     the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
     .csproj files for code completion and auto-discovery of installations.
@@ -2841,6 +2918,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 1.0.2
     - 1.0.6
     - 1.0.8
@@ -2888,6 +2966,12 @@ m_ResolvedPackages:
     - 3.0.28
     - 3.0.31
     recommended: 3.0.31
+=======
+    - 3.0.28
+    compatible:
+    - 3.0.28
+    recommended: 3.0.28
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -2906,7 +2990,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 638447139880000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
@@ -2937,7 +3025,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: asset
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: Code editor integration for supporting Visual Studio Code as code
     editor for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -2945,6 +3037,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 1.0.2
     - 1.0.3
     - 1.0.7
@@ -2957,6 +3050,8 @@ m_ResolvedPackages:
     - 1.2.2
     - 1.2.3
     - 1.2.4
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 1.2.5
     compatible:
     - 1.2.5
@@ -2975,7 +3070,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 637800255360000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3006,7 +3105,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: asset
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: 'The editor coroutines package allows developers to start constructs
     similar to Unity''s monobehaviour based coroutines within the editor using abitrary
     objects. '
@@ -3014,12 +3117,15 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 0.0.1-preview.3
     - 0.0.1-preview.4
     - 0.0.1-preview.5
     - 0.0.2-preview.1
     - 0.1.0-preview.1
     - 0.1.0-preview.2
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 1.0.0
     compatible:
     - 1.0.0
@@ -3041,7 +3147,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 637232611380000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3072,7 +3182,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: asset
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: "The Profile Analyzer tool supports the standard Unity Profiler. You
     can use it to analyze multiple frames and multiple data sets of the CPU data
     in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single
@@ -3082,6 +3196,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 0.4.0-preview.3
     - 0.4.0-preview.5
     - 0.4.0-preview.6
@@ -3095,6 +3210,8 @@ m_ResolvedPackages:
     - 1.1.0-pre.2
     - 1.1.0
     - 1.1.1
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 1.2.2
     compatible:
     - 1.2.2
@@ -3113,7 +3230,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 638108624620000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
   hasRepository: 1
   repository:
@@ -3144,12 +3265,17 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Unity Test Framework
+<<<<<<< HEAD
   type: asset
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: Test framework for running Edit mode and Play mode tests in Unity.
   status: 0
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 0.0.4-preview
     - 0.0.29-preview
     - 1.0.0
@@ -3222,6 +3348,11 @@ m_ResolvedPackages:
     - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
+=======
+    - 1.1.33
+    compatible:
+    - 1.1.33
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     recommended: 1.1.33
     deprecated: []
   dependencies:
@@ -3251,7 +3382,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 637938212700000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3282,7 +3417,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: assets
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: Use this package to export code coverage data and reports from your
     automated tests. Additionally, the Code Coverage package offers a Coverage Recording
     feature which allows capturing coverage data on demand, for manual testing or
@@ -3291,6 +3430,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 0.2.0-preview
     - 0.2.1-preview
     - 0.2.2-preview
@@ -3321,6 +3461,8 @@ m_ResolvedPackages:
     - 1.2.2
     - 1.2.3
     - 1.2.4
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 1.2.5
     compatible:
     - 1.2.5
@@ -3357,7 +3499,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 638386640140000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.testtools.codecoverage@1.2/manual/index.html
   hasRepository: 1
   repository:
@@ -3388,13 +3534,18 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
+<<<<<<< HEAD
   type: asset
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: A framework for making any serializable field a setting, complete
     with a pre-built settings interface.
   status: 0
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 0.1.0-preview.4
     - 0.1.0-preview.8
     - 1.0.0
@@ -3402,6 +3553,8 @@ m_ResolvedPackages:
     - 1.0.2
     - 1.0.3
     - 2.0.0
+=======
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     - 2.0.1
     compatible:
     - 2.0.1
@@ -3420,7 +3573,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 637744099390000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3451,13 +3608,18 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Libraries
+<<<<<<< HEAD
   type: asset
+=======
+  type: 
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   description: Custom version of the nunit package build to work with Unity. Used
     by the Unity Test Framework.
   status: 0
   errors: []
   versions:
     all:
+<<<<<<< HEAD
     - 0.1.5-preview
     - 0.1.6-preview
     - 0.1.9-preview
@@ -3474,6 +3636,11 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+=======
+    - 1.0.6
+    compatible:
+    - 1.0.6
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
     recommended: 1.0.6
     deprecated: []
   dependencies: []
@@ -3492,7 +3659,11 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
+<<<<<<< HEAD
   datePublishedTicks: 637429759280000000
+=======
+  datePublishedTicks: 0
+>>>>>>> c7279092f286b80f5be733da04a7f85bf6688254
   documentationUrl: 
   hasRepository: 1
   repository:
