@@ -1,0 +1,3 @@
+main<stdio.h
+
+include(random-a, random-b)
